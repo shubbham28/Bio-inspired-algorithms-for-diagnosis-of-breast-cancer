@@ -1,5 +1,5 @@
 # Bio inspired algorithms for diagnosis of breast cancer
-It is a research paper published in IJICA, 2019
+It is a research paper published in International Journal of Innovative Computing and Applications, 2019
 
 In this project I had extracted and compared the efficiency of four bio-inspired algorithms which are Ant Colony Optimization, Artificial Bee Colony Optimization, Particle Swarm Optimization, Firefly Algorithm.     
 
